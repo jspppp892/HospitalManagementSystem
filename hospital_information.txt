@@ -1,0 +1,23 @@
+
+HOSPITAL MANAGEMENT SYSTEM
+
+Hospital Name : City Care Hospital
+Hospital ID : HSP101
+
+PATIENT DETAILS
+Patient ID : P1001
+Patient Name : Rahul Sharma
+Age : 25
+Gender : Male
+Blood Group : O+
+Contact Number : 9876543210
+
+EMERGENCY CONTACT DETAILS
+Contact Person : Amit Sharma
+Relationship : Brother
+Emergency Number : 9123456780
+
+MEDICAL DETAILS
+Department : Cardiology
+Doctor Name : Dr. Arjun Kumar
+Appointment Date : 20-11-2026
